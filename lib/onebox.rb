@@ -7,6 +7,7 @@ require "verbal_expressions"
 require "ostruct"
 require "moneta"
 require "hexpress"
+require "hexpress/web"
 
 require_relative "onebox/version"
 require_relative "onebox/preview"
